@@ -22,7 +22,7 @@ pandas
 
 # Tutorials
 1. **ex1_1xZARC Model.ipynb**: This notebook demonstrates how to deconvolve DRTs from multiple EIS spectra (from 1xZARC model) over a frequency range of 1E-2 to 1E6 Hz with 10 points per decade.
-2. **ex2_2xZARC Model.ipynb**: This notebook shows how the qGP-DRT method captures distant timescales using 2xZARC models in series, using the same frequency range as in **ex1_1xZARC Model.ipynb**.
+2. **ex2_2xZARC Model.ipynb**: This notebook shows how the qGP-DRT method captures distant timescales using 2xZARC models in series, over the same frequency range as in **ex1_1xZARC Model.ipynb**.
 3. **ex3_LFP.ipynb**: This notebook examines a lithium-ion battery with an LiFePO4 (LFP) cathode, lithium-metal anode, and 1M LiPF6 in a 1:1 ethylene carbonate carbonate electrolyte. EIS data were collected from 0.1 Hz to 7 MHz at a 5C rate for cycles 30, 60, 90, and 120.
 
 # Citation
