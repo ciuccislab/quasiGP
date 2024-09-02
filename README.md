@@ -21,8 +21,8 @@ matplotlib
 pandas
 
 # Tutorials
-1. **ex1_1xZARC Model.ipynb**: this notebook gives detail procedure of how to recover the DRT from the multiple EIS data from 1xZARC model for frequency range from 1E-2 Hz to 1E6 Hz with 10 points per decade.
-2. **ex2_distant_2xZARC Model.ipynb** : this notebook demonstrates how the qGP-DRT can capture separated timescales with two ZARC models arranged in series. The frequency range is from 1E-2 Hz to 1E6 Hz with 10 ppd.
+1. **ex1_1xZARC Model.ipynb**: this notebook gives detail procedure of how to recover the DRT from multiple EIS data obtained from 1xZARC model for frequency range from 1E-2 Hz to 1E6 Hz with 10 points per decade.
+2. **ex2_distant_2xZARC Model.ipynb** : this notebook demonstrates how the qGP-DRT can capture separated timescales with two ZARC models in series. The frequency range is from 1E-2 Hz to 1E6 Hz with 10 ppd.
 3. **ex3_LFP.ipynb** : this notebook displays the DRT analysis of the LFP impedance spectra from Lithium-metal cathode. The real experimental EIS data is read from a csv file, the recovered DRTs and impedances are compared with DRTtools and ECM.
 
 
