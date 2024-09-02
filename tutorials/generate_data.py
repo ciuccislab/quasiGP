@@ -1,3 +1,5 @@
+#__authors__ = 'Francesco Ciucci, Adeleke Maradesa'
+
 import numpy as np
 from math import sin, cos, pi, sqrt
 
