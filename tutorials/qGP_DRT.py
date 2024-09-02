@@ -1,7 +1,7 @@
 #
-#__authors__ = ''
+#__authors__ = 'Francesco Ciucci, Adeleke Maradesa'
 
-__date__ = '21 May, 2024'
+__date__ = '02 September, 2024'
 
 
 ## load necessary packages

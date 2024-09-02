@@ -1,3 +1,5 @@
+#__authors__ = 'Francesco Ciucci, Adeleke Maradesa'
+
 # import necessary package
 from numpy.linalg import cholesky, solve
 import numpy as np
