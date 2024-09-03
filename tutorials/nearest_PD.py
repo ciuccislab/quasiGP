@@ -1,3 +1,5 @@
+#__authors__ = 'Francesco Ciucci, Adeleke Maradesa'
+
 #import necessary library
 from numpy import linalg as la
 import numpy as np
