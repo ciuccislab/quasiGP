@@ -1,5 +1,5 @@
-#
-#__authors__ = ''
+
+#__authors__ = 'Francesco Ciucci, Adeleke Maradesa'
 
 __date__ = '02 September, 2024'
 
